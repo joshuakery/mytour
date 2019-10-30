@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/mytour/static/css/main.541506c5.chunk.css",
+    "main.js": "/mytour/static/js/main.e962eedc.chunk.js",
+    "main.js.map": "/mytour/static/js/main.e962eedc.chunk.js.map",
+    "runtime-main.js": "/mytour/static/js/runtime-main.53878d57.js",
+    "runtime-main.js.map": "/mytour/static/js/runtime-main.53878d57.js.map",
+    "static/js/2.125304d6.chunk.js": "/mytour/static/js/2.125304d6.chunk.js",
+    "static/js/2.125304d6.chunk.js.map": "/mytour/static/js/2.125304d6.chunk.js.map",
+    "index.html": "/mytour/index.html",
+    "precache-manifest.c587deef8f09dab6e904b37bcb7bd5af.js": "/mytour/precache-manifest.c587deef8f09dab6e904b37bcb7bd5af.js",
+    "service-worker.js": "/mytour/service-worker.js",
+    "static/css/main.541506c5.chunk.css.map": "/mytour/static/css/main.541506c5.chunk.css.map",
+    "static/media/btn_down.png": "/mytour/static/media/btn_down.b9e6809e.png",
+    "static/media/btn_left.png": "/mytour/static/media/btn_left.8e2ab890.png",
+    "static/media/btn_right.png": "/mytour/static/media/btn_right.45eabe5d.png",
+    "static/media/btn_up.png": "/mytour/static/media/btn_up.abf022a2.png",
+    "static/media/logo.png": "/mytour/static/media/logo.1a3f101d.png",
+    "static/media/room-basement.jpg": "/mytour/static/media/room-basement.deb7d49b.jpg",
+    "static/media/room-dining-room.jpg": "/mytour/static/media/room-dining-room.21ac5b18.jpg",
+    "static/media/room-foyer.jpg": "/mytour/static/media/room-foyer.bc9a5001.jpg",
+    "static/media/room-hallway.jpg": "/mytour/static/media/room-hallway.d946d188.jpg",
+    "static/media/room-living-room.jpg": "/mytour/static/media/room-living-room.16ce996d.jpg",
+    "static/media/room-long-sunroom.jpg": "/mytour/static/media/room-long-sunroom.2f6b3092.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53878d57.js",
+    "static/js/2.125304d6.chunk.js",
+    "static/css/main.541506c5.chunk.css",
+    "static/js/main.e962eedc.chunk.js"
+  ]
+}
